@@ -88,6 +88,10 @@ EDA was conducted to understand the underlying patterns and dependencies in the 
 ### Load vs Time
 - Shows overall trend and seasonality.
 
+#### Electricity Load Pattern
+
+![Load vs Time](EDA/eda_1_load_vs_time.png)
+
 ### Load Distribution
 - Analyzes the statistical spread of load values.
 
