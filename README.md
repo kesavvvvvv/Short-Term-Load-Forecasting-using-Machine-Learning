@@ -335,6 +335,25 @@ Indicates systematic prediction bias.
 
 # Results
 
+
+## Model Predictions
+
+### XGBoost – Actual vs Predicted
+
+![XGBoost Prediction](plots/XGBoost/actual_vs_predicted_full.png)
+
+### Random Forest – Actual vs Predicted
+
+![Random Forest Prediction](plots/RandomForest/actual_vs_predicted_full.png)
+
+### SVR – Actual vs Predicted
+
+![SVR Prediction](plots/SVR/actual_vs_predicted_full.png)
+
+### CatBoost – Actual vs Predicted
+
+![CatBoost Prediction](plots/CatBoost/actual_vs_predicted_full.png)
+
 | Model | RMSE | MAE | MAPE | sMAPE | R² | MBE |
 |------|------|------|------|------|------|------|
 | Random Forest | 2019 | 1093 | 3.02% | 2.43% | 0.979 | +413 |
