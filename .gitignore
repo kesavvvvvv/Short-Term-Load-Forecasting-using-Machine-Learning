@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained models
+trained_models/
+*.pkl
+
+# CatBoost training logs
+catboost_info/
+
+# System files
+.DS_Store
+Thumbs.db
